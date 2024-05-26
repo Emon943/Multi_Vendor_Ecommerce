@@ -1,0 +1,159 @@
+
+            <div class="col-lg-12 content-box ">
+                <div class="row row-featured">
+
+                    <div style="clear: both"></div>
+
+                    <div class=" relative  content  clearfix">
+
+
+                        <div class="">
+                            <div class="tab-lite">
+
+                                <!-- Nav tabs -->
+                                <ul class="nav nav-tabs " role="tablist">
+                                    <li role="presentation"><a href="#tab1" aria-controls="tab1"
+                                                                              role="tab" data-toggle="tab"><i
+                                            class="icon-location-2"></i> Top Resellers</a></li>
+                                    
+                                    
+                                </ul>
+
+                                <!-- Tab panes -->
+                                <div class="tab-content">
+                                    <div role="tabpanel" class="tab-pane active" id="tab1">
+
+                                        <div class="col-lg-12 tab-inner">
+
+                                            <div class="row">
+                                                 <div class="adds-wrapper hasGridView">
+														<div class=" item-list make-grid ">
+
+
+															<div class="col-sm-2 no-padding photobox">
+																<div class="add-image"><a href="reseler_page"><img
+																		class="thumbnail no-margin" src="images/aarong-logo.jpg"
+																		alt="img"></a></div>
+															</div>
+															<!--/.photobox-->
+															<div class="col-sm-7 add-desc-box">
+																<div class="add-details">
+																	<h5 class="add-title"><a href="ads-details.html">
+																		Aarong </a></h5>
+																		<p>Something about company</p>
+																	</div>
+															</div>
+															<!--/.add-desc-box-->
+															<div class="col-sm-3 text-right  price-box">
+																
+																<a class="btn btn-danger  btn-sm make-favorite"> <i class="fa fa-certificate"></i>
+																	<span>Top Ads</span> </a> <a class="btn btn-default  btn-sm make-favorite"> <i
+																	class="fa fa-heart"></i> <span>Save</span> </a></div>
+															<!--/.add-desc-box-->
+														</div>
+														<!--/. item-list make-grid-->
+
+														<div class=" item-list make-grid ">
+
+
+															<div class="col-sm-2 no-padding photobox">
+																<div class="add-image"><a href="ads-details.html"><img
+																		class="thumbnail no-margin" src="images/ash_pro.jpg"
+																		alt="img"></a></div>
+															</div>
+															<!--/.photobox-->
+															<div class="col-sm-7 add-desc-box">
+																<div class="add-details">
+																	<h5 class="add-title"><a href="ads-details.html">
+																		Aarong </a></h5>
+																		<p>Something about company</p>
+																	</div>
+															</div>
+															<!--/.add-desc-box-->
+															<div class="col-sm-3 text-right  price-box">
+																
+																<a class="btn btn-danger  btn-sm make-favorite"> <i class="fa fa-certificate"></i>
+																	<span>Top Ads</span> </a> <a class="btn btn-default  btn-sm make-favorite"> <i
+																	class="fa fa-heart"></i> <span>Save</span> </a></div>
+															<!--/.add-desc-box-->
+														</div>
+														<!--/. item-list make-grid-->
+
+														<div class=" item-list make-grid ">
+
+
+															<div class="col-sm-2 no-padding photobox">
+																<div class="add-image"> <a href="ads-details.html"><img
+																		class="thumbnail no-margin" src="images/noborupa.jpg"
+																		alt="img"></a></div>
+															</div>
+															<!--/.photobox-->
+															<div class="col-sm-7 add-desc-box">
+																<div class="add-details">
+																	<h5 class="add-title"><a href="ads-details.html">
+																		Aarong </a></h5>
+																		<p>Something about company</p>
+																	</div>
+															</div>
+															<!--/.add-desc-box-->
+															<div class="col-sm-3 text-right  price-box">
+																
+																<a class="btn btn-danger  btn-sm make-favorite"> <i class="fa fa-certificate"></i>
+																	<span>Top Ads</span> </a> <a class="btn btn-default  btn-sm make-favorite"> <i
+																	class="fa fa-heart"></i> <span>Save</span> </a></div>
+															<!--/.add-desc-box-->
+														</div>
+														<!--/. item-list make-grid-->
+
+
+                            <!--/. item-list make-grid-->
+														<div class=" item-list make-grid ">
+
+
+															<div class="col-sm-2 no-padding photobox">
+																<div class="add-image"> <a href="ads-details.html"><img
+																		class="thumbnail no-margin" src="images/property-agency-logo.png"
+																		alt="img"></a></div>
+															</div>
+															<!--/.photobox-->
+															<div class="col-sm-7 add-desc-box">
+																<div class="add-details">
+																	<h5 class="add-title"><a href="ads-details.html">
+																		Aarong </a></h5>
+																		<p>Something about company</p>
+																	</div>
+															</div>
+															<!--/.add-desc-box-->
+															<div class="col-sm-3 text-right  price-box">
+																
+																<a class="btn btn-danger  btn-sm make-favorite"> <i class="fa fa-certificate"></i>
+																	<span>Top Ads</span> </a> <a class="btn btn-default  btn-sm make-favorite"> <i
+																	class="fa fa-heart"></i> <span>Save</span> </a></div>
+															<!--/.add-desc-box-->
+														</div>
+														<!--/. item-list make-grid-->
+
+                            
+                           
+
+											</div>
+
+                                            </div>
+
+                                        </div>
+
+
+                                    </div>
+                                  
+                            
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
